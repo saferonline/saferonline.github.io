@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> Securing your digital life </title>
-</head>
 <body>
 <h1>About</h1>
 <p>Website created to share information related to online safety and securing your digital life.</p>
